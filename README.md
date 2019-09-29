@@ -25,3 +25,5 @@ To automatically download and activate Gruvbox tmux, follow the install instruct
 
 Also see [tpm's_ install instructions](https://github.com/tmux-plugins/tpm#installation) for more details.
 
+# Thanks
+Inspired by [nord-tmux](https://github.com/arcticicestudio/nord-tmux)
